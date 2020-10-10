@@ -13,6 +13,5 @@ public class JBossLog  {
 		// log a message formatted using MessageFormat-style substitutions
 		log.errorv("The license for Solder is the {0}", "APL");
 	}
-
 }
 
